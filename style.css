@@ -1,0 +1,8 @@
+h1 {color:green;
+text-align: center;
+border: 5px solid rgba(55,255,85,0.5)}
+body {background-image: url(slika.jpg);
+background-size: cover;}
+h2:hover {color: green}
+p {font-style: italic;}
+.boxmodel {border: 5px solid red}
